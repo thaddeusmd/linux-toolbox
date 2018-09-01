@@ -3,7 +3,7 @@
 # 20180901 - Pulled from wikipad documentation
 
 
-git config --global user.name "Thaddeus M. Diede"
+git config --global user.name "thaddeusmd"
 git config --global user.email "thaddeusmd@gmail.com"
 git config --global core.editor "vim"
 git config --global color.ui auto
